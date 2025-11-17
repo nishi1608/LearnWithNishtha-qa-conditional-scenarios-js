@@ -1,7 +1,3 @@
-Perfect! Here’s a **short, punchy, GitHub-friendly README** for your repo **`qa-conditional-scenarios-js`**:
-
----
-
 # QA Conditional Scenarios in JavaScript
 
 Learn **QA testing with conditional statements** using **JavaScript**! This repository contains **easy-to-understand examples** for beginners and testers to practice **real-world QA scenarios**.
