@@ -4,7 +4,7 @@ function deviceTypeExample() {
   // Dummy device detection (in real test use window.innerWidth or UA detection)
   const deviceType = "tablet"; 
 
-  // Conditional UI expectations
+  // Conditional device expectations
   if (deviceType === "mobile") 
   {
     console.log("Device Check PASS: On mobile -> expect hamburger menu and stacked layout.");
